@@ -1,0 +1,11 @@
+body
+{
+font-family: 'Trebuchet MS', Arial, sans-serif;
+color: #181818;
+}
+
+#bloc_page
+{
+width: 900px;
+margin: auto;
+}
